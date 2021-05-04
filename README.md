@@ -4,7 +4,6 @@
 
 ![WRRC](images/WRRC.PNG)
 
-
 **Author**: Sa'ed Jabali
 
 **Version**: 1.0.0
@@ -13,6 +12,7 @@
 <!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
 
 ## Getting Started
+
 First creat react app and then install packeges.
 
 ## Architecture
@@ -30,7 +30,6 @@ mainley we used JavaScript.
 
 Credit goes to Murad Al-Shorman who was my partner in this lab.
 
-
 ## Time Estimates
 
 Name of feature: plan an approach
@@ -42,7 +41,6 @@ Start time: 2:00
 Finish time: 2:30
 
 Actual time needed to complete: 30 minutes
-
 
 Name of feature: display map
 
