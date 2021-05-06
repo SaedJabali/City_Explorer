@@ -29,8 +29,8 @@ export class App extends React.Component {
       const myApi = await axios.get(`http://localhost:3001/weather`);
       console.log(typeof (myApi.data));
       this.setState({
-        data: select.data[0],
         show: true,
+        data: select.data[0],
         weatherData: myApi.data,
       })
     } catch (error) {
