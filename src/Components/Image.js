@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from 'react-bootstrap/Card'
 
-class Img extends React.Component {
+class Image extends React.Component {
     render() {
         return (
             <>
@@ -18,4 +18,4 @@ class Img extends React.Component {
         );
     }
 }
-export default Img;
+export default Image;

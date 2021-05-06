@@ -51,3 +51,13 @@ Start time: 3:00
 Finish time: 4:30
 
 Actual time needed to complete: 90 minutes
+
+Name of feature: Connecting other API server to ours
+
+Estimate of time needed to complete: 30 minutes.
+
+Start time: 10 Pm
+
+Finish time: 11 Pm
+
+Actual time needed to complete: 60 minutes.
