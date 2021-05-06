@@ -34,7 +34,8 @@ export class App extends React.Component {
         weatherData: myApi.data,
       })
     } catch (error) {
-      console.log('error')
+      console.log('error');
+      console.log(error.response);
       this.setState({ show: false, text: 'ERROR, please enter a valid city name' });
     }
   }
