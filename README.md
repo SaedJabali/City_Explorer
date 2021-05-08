@@ -12,6 +12,7 @@
 <!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
 
 ## Getting Started
+
 First creat react app and then install packeges.
 
 ## Architecture
@@ -60,3 +61,25 @@ Start time: 10 Pm
 Finish time: 11 Pm
 
 Actual time needed to complete: 60 minutes.
+
+![WRRC](images/WRRC.PNG)
+
+Name of feature: Adding weather API.
+
+Estimate of time needed to complete: 40 minutes
+
+Start time: 6 pm
+
+Finish time: 7 pm
+
+Actual time needed to complete: 60 minutes.
+
+Name of feature: Adding movies API.
+
+Estimate of time needed to complete: 40 minutes
+
+Start time: 1 pm
+
+Finish time: 3 pm
+
+Actual time needed to complete: 2 hours.
